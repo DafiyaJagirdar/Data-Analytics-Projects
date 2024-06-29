@@ -1,9 +1,9 @@
 **Summary:**
     In this project we see the wheather condition at perticular location . we see Temprature , Temprature Dew point, 
-    Relative Humidity, Wind speed, Visiblity, pressure and conditions with the help of pandas DataFrame
+    Relative Humidity, Wind speed,pressure and conditions with the help of pandas DataFrame.
 
    * Analysis the data with the help of Pandas libraries
-    i have used head(),tail and some of the airthmetic or logical operations to compare and analysed the data 
+    i have used head(),tail and some of the airthmetic or logical operations to compare and analysed the data using pandas library.
 
 **  **  *The Goal:****
 1) The main goal of the project is to utilize the things which i have learnt in python library
